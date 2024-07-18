@@ -8,3 +8,4 @@ mysql:5.7
 mysql:8.0
 matrixdotorg/synapse:v1.109.0
 getmeili/meilisearch
+b3log/siyuan:v3.1.1
