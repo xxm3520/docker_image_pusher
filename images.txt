@@ -10,3 +10,4 @@ matrixdotorg/synapse:v1.109.0
 getmeili/meilisearch
 b3log/siyuan
 ubuntu
+royalcms/memcache-admin:v3.0
